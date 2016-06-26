@@ -21,16 +21,25 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 	- Objektorientierte Modellierung
 
 ## Algorithmen
+
 ### Suchen und Sortieren
-- 
+
 ## Sprachen und Automaten
+
 ### Endliche Automaten
+
 - **[JFLAP](http://www.jflap.org)** - Simulation von Automaten
+
 ## Informatiksysteme
+
 ### Rechnerkunde
+
 - **[MOPS](http://www.viktorianer.de/info/mops.html)** - Simulator eines Modellrechners mit Pseudoassembler
+
 ## Informatik, Mensch und Gesellschaft
+
 ### Datensicherheit
+
 - **[SpionCamp](http://ddi.uni-wuppertal.de/material/spioncamp.html)** - Voll ausgearbeitete Lernstationen zur Kryptographie
 
 ## License
