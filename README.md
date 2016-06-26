@@ -7,18 +7,16 @@ In dieser Liste dreht sich alles um den Informatikunterricht. Primär sollen hie
 Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
 
 ## Inhaltsverzeichnis
-- Information und Daten 
-	- Objektorientierte Modellierung
-- Algorithmen
-	- Suchen und Sortieren
-- Sprachen und Automaten
-	- Endliche Automaten
-- Informatiksysteme
-	- Rechnerkunde
-- Informatik, Mensch und Gesellschaft
-	- Datensicherheit
-- Information und Daten 
-	- Objektorientierte Modellierung
+- [Information und Daten](#information-und-daten) 
+	- [Objektorientierte Modellierung](#objektorientierte-modellierung)
+- [Algorithmen](#algorithmen)
+	- [Suchen und Sortieren](#suchen-und-sortieren)
+- [Sprachen und Automaten](#sprachen-und-automaten)
+	- [Endliche Automaten](#endliche-automaten)
+- [Informatiksysteme](#informatiksysteme)
+	- [Rechnerkunde](#rechnerkunde)
+- [Informatik, Mensch und Gesellschaft](#informatik-mensch-und-gesellschaft)
+	- [Datensicherheit](#datensicherheit)
 
 ## Algorithmen
 
