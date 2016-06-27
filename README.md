@@ -20,7 +20,13 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ## Algorithmen
 
-### Suchen und Sortieren
+### Visuelle Programmierung
+
+- **[Scratch](http://scratch.mit.edu)** - Eine am MIT entwickelte visuelle Programmierumgebung, in der Programme durch das anordnen von _Blöcken_ erstellt werden. Erweiterbar durch eine Vielzahl an Plugins, die z.B. auch die Interaktion mit physischen Objekten erlauben.
+
+### Textuelle Programmierung
+
+- **[BlueJ](http://bluej.org)** - Eine umfangreiche, didaktische Programmierumgebung zur Objektorientierten Programmierung mit Java. BlueJ stellt die Klassen eines Programms direkt als vereinfachtes Klassendiagramm dar und versieht den Programmcode mit zusätzlichen Auszeichnungen, um z.B. das Lesen von Kontrollstrukturen zu erleichtern. Darüber hinaus bietet die IDE die gängigen Features wie Code-Completion und Syntax-Highlighting.
 
 ## Sprachen und Automaten
 
