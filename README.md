@@ -4,6 +4,8 @@
 
 In dieser Liste dreht sich alles um den Informatikunterricht. Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten der Informatik darstellen. 
 
+Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Contributing.md](Contributing.md).
+
 Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
 
 ## Inhaltsverzeichnis
