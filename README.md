@@ -21,6 +21,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 	- [Physical Computing](#physical-computing)
 - [Informatik, Mensch und Gesellschaft](#informatik-mensch-und-gesellschaft)
 	- [Datensicherheit](#datensicherheit)
+- [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
 
 ## Standards und Lehrpläne
 
@@ -68,6 +69,10 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 ### Datensicherheit
 
 - **[SpionCamp](http://ddi.uni-wuppertal.de/material/spioncamp.html)** - Voll ausgearbeitete Lernstationen zur Kryptographie
+
+### Allgemeine Unterrichtswerkzeuge
+
+- **[EMU](http://www.unterrichtsdiagnostik.info/)** - EMU steht für _Evidenzbasierte Methoden der Unterrichtsdiagnostik und -entwicklung_ und ist ein Set von Fragebögen und Auswertungstools (in MS Excel), zur Evaluation des eigenen Unterrichts aus SchülerInnen, KollegInnen und LehrerInnen Sicht.
 
 ## License
 
