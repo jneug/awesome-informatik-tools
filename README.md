@@ -2,7 +2,7 @@
 
 > Eine kuratierte Liste von großartigen Werkzeugen für den Informatikunterricht.
 
-In dieser Liste dreht sich alles um den Informatikunterricht. Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten der Informatik darstellen. 
+In dieser Liste dreht sich alles um den Informatikunterricht (IU). Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. Werkzeuge wird hier als Überbegriff für Programme, Materialien oder Informationen über und für den IU benutzt. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source / Open Access Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten der Informatik darstellen. 
 
 Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Contributing.md](Contributing.md).
 
@@ -63,13 +63,15 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ### Physical Computing
 
-- **[Arduino](http://www.arduino.cc)** - 
-- **[Raspberry Pi](http://www.raspberrypi.org)** - 
+- **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
+- **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€. 
 
 ## Informatik, Mensch und Gesellschaft
 
-### Datensicherheit
+### Datenschutz
 
+- **[Planspiel Web 2.0](http://www.bpb.de/lernen/formate/planspiele/65586/planspiele-detailseite?planspiel_id=306)** - Voll ausgearbeitetes Planspiel zu Datenschutz im Web 2.0. 
+- **[Planspiel Datenschutz 2.0](http://medienwissenschaft.uni-bayreuth.de/informatik-im-kontext/index.php/entwuerfe/planspiel-datenschutz-2-0/)** - Digitale Variante des Planspiel Web 2.0.
 - **[SpionCamp](http://ddi.uni-wuppertal.de/material/spioncamp.html)** - Voll ausgearbeitete Lernstationen zur Kryptographie
 
 ### Allgemeine Unterrichtswerkzeuge
