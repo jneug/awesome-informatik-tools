@@ -4,7 +4,7 @@
 
 In dieser Liste dreht sich alles um den Informatikunterricht (IU). Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. Werkzeuge wird hier als Überbegriff für Programme, Materialien oder Informationen über und für den IU benutzt. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source / Open Access Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten der Informatik darstellen. 
 
-Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Contributing.md](Contributing.md).
+Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Beitragen.md](Beitragen.md).
 
 Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
 
