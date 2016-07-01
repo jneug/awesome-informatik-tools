@@ -71,6 +71,10 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 - **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
 - **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€. 
 
+### Rechnernetzen
+
+- **[Filius](#)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
+
 ## Informatik, Mensch und Gesellschaft
 
 ### Datenschutz
