@@ -15,12 +15,16 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 - [Information und Daten](#information-und-daten) 
 	- [Objektorientierte Modellierung](#objektorientierte-modellierung)
 - [Algorithmen](#algorithmen)
+	- [Visuelle Programmierung](#visuelle-programmierung)
+	- [Frame-basierte Programmierung](#frame-basierte-programmierung)
+	- [Textuelle Programmierung](#textuelle-programmierung)
 	- [Suchen und Sortieren](#suchen-und-sortieren)
 - [Sprachen und Automaten](#sprachen-und-automaten)
 	- [Endliche Automaten](#endliche-automaten)
 - [Informatiksysteme](#informatiksysteme)
 	- [Rechnerkunde](#rechnerkunde)
 	- [Physical Computing](#physical-computing)
+	- [Rechnernetze](#rechnernetze)
 - [Informatik, Mensch und Gesellschaft](#informatik-mensch-und-gesellschaft)
 	- [Datensicherheit](#datensicherheit)
 - [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
@@ -72,7 +76,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 - **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
 - **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€. 
 
-### Rechnernetzen
+### Rechnernetze
 
 - **[Filius](#)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
 
