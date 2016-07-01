@@ -53,6 +53,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 ### Textuelle Programmierung
 
 - **[BlueJ](http://bluej.org)** - Eine umfangreiche, didaktische Programmierumgebung zur Objektorientierten Programmierung mit Java. BlueJ stellt die Klassen eines Programms direkt als vereinfachtes Klassendiagramm dar und versieht den Programmcode mit zusätzlichen Auszeichnungen, um z.B. das Lesen von Kontrollstrukturen zu erleichtern. Darüber hinaus bietet die IDE die gängigen Features wie Code-Completion und Syntax-Highlighting.
+- **[Java Editor](#)** - Der Java Editor ist eine didaktische Entwicklungsumgebung für Java Programme. Sie bietet die gängigen Funktionen sowie einen visuellen Editor für Swing GUIs. 
 
 ## Sprachen und Automaten
 
