@@ -59,7 +59,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ### Endliche Automaten
 
-- **[JFLAP](http://www.jflap.org)** - Simulation von Automaten
+- **[JFLAP](http://www.jflap.org)** - Esitor und Simulator für endlichen Automaten und kontextfreie Grammatiken.
 
 ## Informatiksysteme
 
