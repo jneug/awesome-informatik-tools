@@ -81,6 +81,10 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 - **[Filius](#)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
 
+## Datensicherheit
+
+- **[CrypTool](https://www.cryptool.org/)** - Umfangreiches Tool zur Kryptologie und Kryptoanalyse, mit dem verschiedene Verfahren zur Verschlüsselung angewandt, analysiert und ggf. gebrochen werden können. 
+
 ## Informatik, Mensch und Gesellschaft
 
 ### Datenschutz
