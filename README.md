@@ -42,6 +42,12 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 - **[Kernlehrplan Informatik für die Sekundarstufe II an Gymnasien](http://www.schulentwicklung.nrw.de/lehrplaene/upload/klp_SII/if/KLP_GOSt_Informatik.pdf)** ([Onlineversion](http://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/informatik-klp/kernlehrplan-informatik-uebersicht.html))
 - **[Kernlehrplan Wahlpflichtfach Informatik für die Sekundarstufe I an Realschulen](http://www.schulentwicklung.nrw.de/lehrplaene/upload/klp_SI/RS/wp-if/KLP_RS_WP_Informatik_Endfassung.pdf)**
 
+## Information und Daten
+
+### Objektorientierte Modellierung
+
+- **[Object-Draw](http://pabst-software.de/doku.php/programme:object-draw:start)** - Ein _gläsernes_ Zeichenprogamm für Vektorgrafiken, das Grafikobjekte gleichzeitig als Objektdiagramme visualisiert.
+
 ## Algorithmen
 
 ### Visuelle Programmierung
