@@ -1,10 +1,15 @@
 # Zur Liste Beitragen
 
 Wer der Liste gerne einen Eintrag hinzufügen möchte ist herzlich dazu eingeladen. Es gibt zwei Wege, einen Eintrag zu ergänzen:
-1. Per GitHub's Pull-Request
-2. Per Mail
+
+1. [Per GitHub's Pull-Request](#github-pull-request)
+2. [Per Mail](#e-mail)
 
 ## 1. GitHub Pull Request
+
+Mit einem GitHub Konto können Einträge direkt im Browser ergänzt werden.
+
+Eine bebilderte Anleitung, wie ein Pullrequest erstellt werden kann findet sich im [Awesome.re Repository](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list).
 
 ## 2. E-Mail
 
