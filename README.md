@@ -84,7 +84,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ## Datensicherheit
 
-- **[CrypTool](https://www.cryptool.org/)** - Umfangreiches Tool zur Kryptologie und Kryptoanalyse, mit dem verschiedene Verfahren zur Verschlüsselung angewandt, analysiert und ggf. gebrochen werden können. 
+- **[CrypTool](https://www.cryptool.org/)** ([Onlineversion](http://www.cryptool-online.org/)) - Umfangreiches Tool zur Kryptologie und Kryptoanalyse, mit dem verschiedene Verfahren zur Verschlüsselung angewandt, analysiert und ggf. gebrochen werden können. 
 
 ## Informatik, Mensch und Gesellschaft
 
