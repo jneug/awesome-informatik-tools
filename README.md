@@ -50,6 +50,8 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ## Algorithmen
 
+- **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
+
 ### Visuelle Programmierung
 
 - **[Scratch](http://scratch.mit.edu)** - Eine am MIT entwickelte visuelle Programmierumgebung, in der Programme durch das anordnen von _Blöcken_ erstellt werden. Erweiterbar durch eine Vielzahl an Plugins, die z.B. auch die Interaktion mit physischen Objekten erlauben.
