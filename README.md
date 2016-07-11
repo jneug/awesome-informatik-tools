@@ -14,6 +14,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 	- [Kernlehrpläne](#kernlehrplaene)
 - [Information und Daten](#information-und-daten) 
 	- [Objektorientierte Modellierung](#objektorientierte-modellierung)
+	- [Text- und Grafikbearbeitung](#text-und-grafikbearbeitung)
 - [Algorithmen](#algorithmen)
 	- [Visuelle Programmierung](#visuelle-programmierung)
 	- [Frame-basierte Programmierung](#frame-basierte-programmierung)
@@ -27,6 +28,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 	- [Rechnernetze](#rechnernetze)
 - [Informatik, Mensch und Gesellschaft](#informatik-mensch-und-gesellschaft)
 	- [Datensicherheit](#datensicherheit)
+	- [Datenschutz](#datenschutz)
 - [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
 
 ## Standards und Lehrpläne
@@ -99,17 +101,17 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 - **[Filius](http://www.lernsoftware-filius.de/)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
 
-## Datensicherheit
-
-- **[CrypTool](https://www.cryptool.org/)** ([Onlineversion](http://www.cryptool-online.org/)) - Umfangreiches Tool zur Kryptologie und Kryptoanalyse, mit dem verschiedene Verfahren zur Verschlüsselung angewandt, analysiert und ggf. gebrochen werden können. 
-
 ## Informatik, Mensch und Gesellschaft
 
 ### Datenschutz
 
 - **[Planspiel Web 2.0](http://www.bpb.de/lernen/formate/planspiele/65586/planspiele-detailseite?planspiel_id=306)** - Voll ausgearbeitetes Planspiel zu Datenschutz im Web 2.0. 
 - **[Planspiel Datenschutz 2.0](http://medienwissenschaft.uni-bayreuth.de/informatik-im-kontext/index.php/entwuerfe/planspiel-datenschutz-2-0/)** - Digitale Variante des Planspiel Web 2.0.
-- **[SpionCamp](http://ddi.uni-wuppertal.de/material/spioncamp.html)** - Voll ausgearbeitete Lernstationen zur Kryptographie
+- **[SpionCamp](http://ddi.uni-wuppertal.de/material/spioncamp.html)** - Voll ausgearbeitete Lernstationen zur Kryptographie.
+
+## Datensicherheit
+
+- **[CrypTool](https://www.cryptool.org/)** ([Onlineversion](http://www.cryptool-online.org/)) - Umfangreiches Tool zur Kryptologie und Kryptoanalyse, mit dem verschiedene Verfahren zur Verschlüsselung angewandt, analysiert und ggf. gebrochen werden können. 
 
 ## Allgemeine Unterrichtswerkzeuge
 
