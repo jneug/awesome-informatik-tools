@@ -48,6 +48,13 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 - **[Object-Draw](http://pabst-software.de/doku.php/programme:object-draw:start)** - Ein _gläsernes_ Zeichenprogamm für Vektorgrafiken, das Grafikobjekte gleichzeitig als Objektdiagramme visualisiert.
 
+### Text- und Grafikgestaltung
+
+- **[Libre Office](http://www.libreoffice.org)** - Ausgereiftes Open Source Office-Paket mit Textverarbeitung, Diagrammeditor, Tabellenkalkulation und Datenbanksoftware.
+- **[Inkscape](#)** - Open Source Gestaltungssoftware für Vektorgrafiken.
+- **[GIMP](#)** - Open Source Grafikprogramm.
+- **[Scribus](#)** - Open Source Gestaltungsprogramm für Printprodukte.
+
 ## Algorithmen
 
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
