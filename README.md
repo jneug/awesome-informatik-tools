@@ -35,7 +35,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ### Informatikstandards
 
-- **[Informatikstandards für die Sekundarstufe I](http://www.informatikstandards.de/docs/bildungsstandards_2008.pdf)**  ([Onlineversion](http://www.informatikstandards.de/index.htm?section=standards)) - Die von der GI verabschiedete Empfehlung für einheitliche Standards im Informatikunterricht der Klassen 5 bis 10.
+- **[Informatikstandards für die Sekundarstufe I](http://www.informatikstandards.de/docs/bildungsstandards_2008.pdf)**  ([Onlineversion](http://www.informatikstandards.de/index.htm?section=standards)) - Die von der GI verabschiedete Empfehlung für einheitliche Standards im Informatikunterricht der Klassen 5 bis 7 und 8 bis 10.
 - **[Informatikstandards für die Sekundarstufe II](http://www.informatikstandards.de/docs/Bildungsstandards_SII.pdf)** - Die von der GI verabschiedete Empfehlung für einheitliche Standards im Informatikunterricht der EF, Q1 und Q2.
 
 ### Kernlehrpläne
