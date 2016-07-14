@@ -70,7 +70,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 
 ### Frame-basierte Programmierung
 
-- **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-basiertes_Programmieren) erlaubt. 
+- **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 
 ### Textuelle Programmierung
 
