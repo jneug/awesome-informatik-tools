@@ -85,6 +85,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 ### Endliche Automaten
 
 - **[JFLAP](http://www.jflap.org)** - Editor und Simulator für endlichen Automaten und kontextfreie Grammatiken.
+- **[AtoCC](http://atocc.de/)** - Lernumgebung zu Themen der theoretischen Informatik (Automatentheorie, formale Sprachen) und deren Anwendung im Compilerbau.
 
 ## Informatiksysteme
 
