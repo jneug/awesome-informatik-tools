@@ -49,6 +49,7 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 ### Objektorientierte Modellierung
 
 - **[Object-Draw](http://pabst-software.de/doku.php/programme:object-draw:start)** - Ein _gläsernes_ Zeichenprogamm für Vektorgrafiken, das Grafikobjekte gleichzeitig als Objektdiagramme visualisiert.
+- **[Freestyler](http://www.collide.info/de/freestyler)** - Ein flexibles Programm zur Erstellung und Simulation verschiedenster Modellelle. Unter anderem Automaten, UML-Diagramme, Rechnernetze und Logische-Schaltkreise.
 
 ### Text- und Grafikgestaltung
 
