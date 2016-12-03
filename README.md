@@ -2,11 +2,11 @@
 
 > Eine kuratierte Liste von großartigen Werkzeugen für den Informatikunterricht.
 
-In dieser Liste dreht sich alles um den Informatikunterricht (IU). Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. Werkzeuge wird hier als Überbegriff für Programme, Materialien oder Informationen über und für den IU benutzt. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source / Open Access Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten der Informatik darstellen. 
+In dieser Liste dreht sich alles um den Informatikunterricht (IU). Primär sollen hier großartige Werkzeuge gesammelt werden, die sich für den Einsatz im Unterricht eignen. _Werkzeug_ wird hier als Überbegriff für Programme, Materialien oder Informationen über und für den IU benutzt. Nach Möglichkeit sollten dies kostenlose, besser noch Open Source / Open Access Werkzeuge sein, die einen echten Mehrwert für die Unterrichtsgestaltung in einem oder mehreren Themengebieten des IUs darstellen. 
 
 Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Beitragen.md](Beitragen.md).
 
-Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
+Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
 
 ## Inhaltsverzeichnis
 - [Standards und Lehrpläne](#standards-und-lehrplaene)
@@ -41,8 +41,8 @@ Die Organisation der Werkzeuge orientiert sich lose an den [Standards für den I
 ### Kernlehrpläne
 
 #### Nordrhein-Westfalen
-- **[Kernlehrplan Informatik für die Sekundarstufe II an Gymnasien](http://www.schulentwicklung.nrw.de/lehrplaene/upload/klp_SII/if/KLP_GOSt_Informatik.pdf)** ([Onlineversion](http://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/informatik-klp/kernlehrplan-informatik-uebersicht.html))
 - **[Kernlehrplan Wahlpflichtfach Informatik für die Sekundarstufe I an Realschulen](http://www.schulentwicklung.nrw.de/lehrplaene/upload/klp_SI/RS/wp-if/KLP_RS_WP_Informatik_Endfassung.pdf)**
+- **[Kernlehrplan Informatik für die Sekundarstufe II an Gymnasien](http://www.schulentwicklung.nrw.de/lehrplaene/upload/klp_SII/if/KLP_GOSt_Informatik.pdf)** ([Onlineversion](http://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/informatik-klp/kernlehrplan-informatik-uebersicht.html))
 
 ## Information und Daten
 
