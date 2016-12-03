@@ -54,9 +54,9 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Text- und Grafikgestaltung
 
 - **[Libre Office](http://www.libreoffice.org)** - Ausgereiftes Open Source Office-Paket mit Textverarbeitung, Diagrammeditor, Tabellenkalkulation und Datenbanksoftware.
-- **[Inkscape](#)** - Open Source Gestaltungssoftware für Vektorgrafiken.
-- **[GIMP](#)** - Open Source Grafikprogramm.
-- **[Scribus](#)** - Open Source Gestaltungsprogramm für Printprodukte.
+- **[Inkscape](https://inkscape.org/de/)** - Open Source Gestaltungssoftware für Vektorgrafiken.
+- **[GIMP](https://www.gimp.org)** - Open Source Grafikprogramm.
+- **[Scribus](https://www.scribus.net)** - Open Source Gestaltungsprogramm für Printprodukte.
 
 ## Algorithmen
 
