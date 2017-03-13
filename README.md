@@ -14,7 +14,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 	- [Kernlehrpläne](#kernlehrplaene)
 - [Information und Daten](#information-und-daten) 
 	- [Objektorientierte Modellierung](#objektorientierte-modellierung)
-	- [Text- und Grafikbearbeitung](#text-und-grafikbearbeitung)
+	- [Text- und Grafikbearbeitung](#text--und-grafikgestaltung)
 - [Algorithmen](#algorithmen)
 	- [Visuelle Programmierung](#visuelle-programmierung)
 	- [Frame-basierte Programmierung](#frame-basierte-programmierung)
