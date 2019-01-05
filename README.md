@@ -64,7 +64,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ### Visuelle Programmierung
 
-- **[Scratch](http://scratch.mit.edu)** - Eine am MIT entwickelte visuelle Programmierumgebung, in der Programme durch das anordnen von _Blöcken_ erstellt werden. Erweiterbar durch eine Vielzahl an Plugins, die z.B. auch die Interaktion mit physischen Objekten erlauben.
+- **[Scratch 3](http://scratch.mit.edu)** - Eine am MIT entwickelte visuelle Programmierumgebung, in der Programme durch das anordnen von _Blöcken_ erstellt werden. Version 3 ist am 3. Januar 2018 erschienen. 
+- **[Scratch 2](https://uploads.scratch.mit.edu/scratch2download/)** - Die Vorgängerversion von Scratch 3 ist weiterhin als Offlineeditor verfügbar. Erweiterbar durch eine Vielzahl an Plugins, die z.B. auch die Interaktion mit physischen Objekten erlauben.
 	- **[Scratch4TUIO](https://github.com/caesarion/scratch4tuio)** - Erweiterung um Be-greifbare Interaktionen in Scratch zu integrieren.
 - **[Snap!](http://snap.berkeley.edu)** - Ursprünglich ein Zweig der ersten Scratch Version, mittlerweile komplett neu implementierte Alternative zu Scratch. Snap! zeichnet sich durch die noch größere Erweiterbarkeit aus. Es existieren Erweiterungen für [Arduino](http://www.arduino.cc), [Sphero](http://www.gosphero.com), _Mindstroms NXT_ und vieles mehr.
 - **[App Inventor](http://appinventor.mit.edu/)** - Visuelle Programmierumgebung für Android Apps. Mit dem Editor können mobile Apps mit einer blockbasierten Sprache programmiert werden. 
