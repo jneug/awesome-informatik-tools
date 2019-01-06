@@ -87,6 +87,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Endliche Automaten
 
 - **[JFLAP](http://www.jflap.org)** - Editor und Simulator für endlichen Automaten und kontextfreie Grammatiken.
+- **[FLACI](https://flaci.com)** - Lernumgebung zu Themen der theoretischen Informatik. Nachfolgeprojekt von AtoCC, das vollständig Webbasiert ist. 
 - **[AtoCC](http://atocc.de/)** - Lernumgebung zu Themen der theoretischen Informatik (Automatentheorie, formale Sprachen) und deren Anwendung im Compilerbau.
 
 ## Informatiksysteme
