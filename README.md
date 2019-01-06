@@ -30,6 +30,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 	- [Datensicherheit](#datensicherheit)
 	- [Datenschutz](#datenschutz)
 - [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
+- [Unterrichtsmaterial](#unterrichtsmaterial)
 
 ## Standards und Lehrpläne
 
@@ -75,6 +76,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[EOS](http://pabst-software.de/doku.php/programme:eos:start)** - EOS ist eine bewusst einfach gehaltene objektorientierte Sprache mit Entwicklungsumgebung, die es Schülern ab der Jahrgangsstufe 6 ermöglichen soll, erste Einblicke in die objektorientierte Programmierung zu gewinnen.
 - **[BlueJ](http://bluej.org)** - Eine umfangreiche, didaktische Programmierumgebung zur Objektorientierten Programmierung mit Java. BlueJ stellt die Klassen eines Programms direkt als vereinfachtes Klassendiagramm dar und versieht den Programmcode mit zusätzlichen Auszeichnungen, um z.B. das Lesen von Kontrollstrukturen zu erleichtern. Darüber hinaus bietet die IDE die gängigen Features wie Code-Completion und Syntax-Highlighting.
 - **[Java Editor](http://javaeditor.org/)** - Der Java Editor ist eine didaktische Entwicklungsumgebung für Java Programme. Sie bietet die gängigen Funktionen sowie einen visuellen Editor für Swing GUIs.
+- **[TigerJython](http://www.tigerjython.ch)** - 
+- **[P5JS](https://p5js.com)** -
 
 ### Miniwelten
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
@@ -120,6 +123,14 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ## Allgemeine Unterrichtswerkzeuge
 
 - **[EMU](http://www.unterrichtsdiagnostik.info/)** - EMU steht für _Evidenzbasierte Methoden der Unterrichtsdiagnostik und -entwicklung_ und ist ein Set von Fragebögen und Auswertungstools (in MS Excel), zur Evaluation des eigenen Unterrichts aus SchülerInnen, KollegInnen und LehrerInnen Sicht.
+
+## Unterrichtsmaterial
+
+- **[SwissEduc Informatik](https://swisseduc.ch/informatik/)** - Umfassende Materialien zum Informatikunterricht. Zum Teil Urheber der oben gelisteten Tools, aber es ist noch weit mehr lohnenswertes Zusatzmaterial vorhanden. 
+- **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
+- **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
+- **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
+
 
 ## License
 
