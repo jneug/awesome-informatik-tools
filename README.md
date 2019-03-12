@@ -6,7 +6,7 @@ In dieser Liste dreht sich alles um den Informatikunterricht (IU). Primär solle
 
 Diese Liste ist eine kollaborative Sammlung und steht für Beiträge offen. Wie Sie etwas beitragen können steht in [Beitragen.md](Beitragen.md).
 
-Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). 
+Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für den Informatikunterricht](http://www.informatikstandards.de). In der Kategorie [Digital Arbeiten](#digital-arbeiten) werden allgemeine Tools aufgelistet, die generell für den Einsatz in allen Fächern sinnvoll sind.
 
 ## Inhaltsverzeichnis
 - [Standards und Lehrpläne](#standards-und-lehrplaene)
@@ -31,6 +31,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 	- [Datenschutz](#datenschutz)
 - [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
 - [Unterrichtsmaterial](#unterrichtsmaterial)
+- [Digital Arbeiten](#digital-arbeiten)
 
 ## Standards und Lehrpläne
 
@@ -131,6 +132,9 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
 - **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
 
+## Digital Arbeiten
+- **[Etherpad-Lite](https://etherpad.org)** - Ein kollborativer Text-Editor, um gemeinsam an einem Dokument zu arbeiten. Der Editor erlaubt es mehreren Nutzern gleichzeitig Änderungen an einem Dokument vorzunehmen. Es werden einige einfache Formatierungen unterstützt, allerdings keine komplexeren Formatierungen. Es gibt eine vielzahl von offenen Instanzen, die frei genuzt werden können. Beachtenswert ist vor allem das [Edupad](https://edupad.ch).
+- **[HackMD](https://hackmd.io)** - Ein kollaborativer Markdown-Editor ähnlich zu _Etherpad_. Das Online-Tool erlaubt es mehreren Nutzern gleichzeitig an einem [Markdown-Dokument](https://daringfireball.net/projects/markdown) zu arbeiten.
 
 ## License
 
