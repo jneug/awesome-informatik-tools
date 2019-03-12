@@ -134,7 +134,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Digital Arbeiten
 - **[Etherpad-Lite](https://etherpad.org)** - Ein kollborativer Text-Editor, um gemeinsam an einem Dokument zu arbeiten. Der Editor erlaubt es mehreren Nutzern gleichzeitig Änderungen an einem Dokument vorzunehmen. Es werden einige einfache Formatierungen unterstützt, allerdings keine komplexeren Formatierungen. Es gibt eine vielzahl von offenen Instanzen, die frei genuzt werden können. Beachtenswert ist vor allem das [Edupad](https://edupad.ch).
-- **[HackMD](https://hackmd.io)** - Ein kollaborativer Markdown-Editor ähnlich zu _Etherpad_. Das Online-Tool erlaubt es mehreren Nutzern gleichzeitig an einem [Markdown-Dokument](https://daringfireball.net/projects/markdown) zu arbeiten.
+- **[HackMD](https://hackmd.io)** - Ein kollaborativer Markdown-Editor ähnlich zu _Etherpad_. Das Online-Tool erlaubt es mehreren Nutzern gleichzeitig an einem [Markdown-Dokument](https://daringfireball.net/projects/markdown) zu arbeiten. Einfache Dokumente können kostenfrei und ohne Anmeldung erstellt werden, für erweiteretes Rechtemanagement und andere Features ist ein bezahltes Abo notwendig.
+- **[EtherCalc](https://ethercalc.org)** - Kollaborative Tabellenkalkulation, um mit mehreren Nutzern gleichzeitig an einer Tabelle arbeiten zu können.
 
 ## License
 
