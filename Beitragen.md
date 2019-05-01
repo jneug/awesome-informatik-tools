@@ -9,7 +9,7 @@ Wer der Liste gerne einen Eintrag hinzufügen möchte ist herzlich dazu eingelad
 
 Mit einem GitHub Konto können Einträge direkt im Browser ergänzt werden.
 
-Eine bebilderte Anleitung, wie ein Pullrequest erstellt werden kann findet sich im [Awesome.re Repository](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list).
+Eine bebilderte Anleitung, wie ein Pullrequest erstellt werden kann, findet sich im [Awesome.re Repository](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list).
 
 ## 2. E-Mail
 
