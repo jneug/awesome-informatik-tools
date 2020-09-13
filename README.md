@@ -26,6 +26,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 	- [Rechnerkunde](#rechnerkunde)
 	- [Physical Computing](#physical-computing)
 	- [Rechnernetze](#rechnernetze)
+- [Datenbanken](#datenbanken)
 - [Informatik, Mensch und Gesellschaft](#informatik-mensch-und-gesellschaft)
 	- [Datensicherheit](#datensicherheit)
 	- [Datenschutz](#datenschutz)
@@ -109,6 +110,12 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Rechnernetze
 
 - **[Filius](http://www.lernsoftware-filius.de/)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
+
+## Datenbanken
+
+- **[DB Browser for SQLite](https://sqlitebrowser.org)** - *DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.*
+- **[InstaHub](https://instahub.org)** - InstaHub ist ein soziales Netzwerk, welches im Unterricht eingesetzt wird, um die Themen Datenbanken, Umgang mit sozialen Netzen und Datenschutz zu lehren.
+	- **[Inofizieller Reader](https://rnitzsche.github.io/instahub-doc-de/)**
 
 ## Informatik, Mensch und Gesellschaft
 
