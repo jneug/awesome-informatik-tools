@@ -101,6 +101,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[MOPS](http://www.viktorianer.de/info/mops.html)** - Simulator eines Modellrechners mit Pseudoassembler.
 - **[Know How Computer](https://kroegerama.com/windows/know-how-computer)** - Ein Programm, um Assembler zu lernen. Angelehnt an den berühmten Know How Computer des [WDR-ComputerClub](http://www.wolfgang-back.com/knowhow_home.php).
+	- **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar.
 
 ### Physical Computing
 
