@@ -118,7 +118,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[DB Browser for SQLite](https://sqlitebrowser.org)** - *DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.*
 - **[InstaHub](https://instahub.org)** - InstaHub ist ein soziales Netzwerk, welches im Unterricht eingesetzt wird, um die Themen Datenbanken, Umgang mit sozialen Netzen und Datenschutz zu lehren.
-	- **[Inofizieller Reader](https://rnitzsche.github.io/instahub-doc-de/)**
+	- **[Inoffizieller Reader](https://rnitzsche.github.io/instahub-doc-de/)**
 
 ## Informatik, Mensch und Gesellschaft
 
