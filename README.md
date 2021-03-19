@@ -105,8 +105,10 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ### Physical Computing
 
+- **[micro:bit](https://microbit.org)** - Mikrocomputer, der aus einer Bildungsoffensive in England hervorgegangen ist.
+- **[Calliope](https://calliope.cc)** - Deutsche Version des micro:bit mit einigen anderen Sensoren und Anzeigen.
 - **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
-- **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€. 
+- **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€.
 
 ### Rechnernetze
 
