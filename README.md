@@ -84,6 +84,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Miniwelten
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 - **[Java Hamster Modell](http://www.java-hamster-modell.de)** - Miniwelt in der ein Hamster durch Territorien gesteuert wird. Geeignet für den Einstieg in verschiedene Programmierparadigmen und -sprachen.
+- **[GearsBot](https://gears.aposteriori.com.sg/)** ([GitHub](https://github.com/QuirkyCort/gears)) - Simulationsumgebung für Ev3 Roboter. Programmierbar mit Blockly und Python.
 
 ### Suchen und Sortieren
 
@@ -109,6 +110,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Calliope](https://calliope.cc)** - Deutsche Version des micro:bit mit einigen anderen Sensoren und Anzeigen.
 - **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
 - **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€.
+- **[OpenRoberta Labs](https://www.roberta-home.de/lab/)** - Verschiedene Programmierumgebungen, unter anderem für die verschiedenen Plattformen oben.
 
 ### Rechnernetze
 
