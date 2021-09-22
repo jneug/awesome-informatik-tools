@@ -31,6 +31,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 	- [Datensicherheit](#datensicherheit)
 	- [Datenschutz](#datenschutz)
 - [Allgemeine Unterrichtswerkzeuge](#allgemeine-unterrichtswerkzeuge)
+        - [Diagramme](#diagramme)
 - [Unterrichtsmaterial](#unterrichtsmaterial)
 - [Digital Arbeiten](#digital-arbeiten)
 
@@ -137,6 +138,12 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Allgemeine Unterrichtswerkzeuge
 
+### Diagramme
+
+- **[Mermaid](https://mermaid.live)** - Online-Editor, um Diagrammeaus einer einfachen Textsprache zu generieren.
+
+### Unterrichtsevaluation
+
 - **[EMU](http://www.unterrichtsdiagnostik.info/)** - EMU steht für _Evidenzbasierte Methoden der Unterrichtsdiagnostik und -entwicklung_ und ist ein Set von Fragebögen und Auswertungstools (in MS Excel), zur Evaluation des eigenen Unterrichts aus SchülerInnen, KollegInnen und LehrerInnen Sicht.
 
 ## Unterrichtsmaterial
@@ -151,6 +158,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[HackMD](https://hackmd.io)** - Ein kollaborativer Markdown-Editor ähnlich zu _Etherpad_. Das Online-Tool erlaubt es mehreren Nutzern gleichzeitig an einem [Markdown-Dokument](https://daringfireball.net/projects/markdown) zu arbeiten. Einfache Dokumente können kostenfrei und ohne Anmeldung erstellt werden, für erweiteretes Rechtemanagement und andere Features ist ein bezahltes Abo notwendig.
 - **[EtherCalc](https://ethercalc.org)** - Kollaborative Tabellenkalkulation, um mit mehreren Nutzern gleichzeitig an einer Tabelle arbeiten zu können.
 - **[Oncoo](https://www.oncoo.de)** - Kollaboratives Brainstorming und Feedbacksystem.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
