@@ -65,6 +65,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ## Algorithmen
 
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
+- **[VisuAlgo](https://visualgo.net)** - Interaktive Visualisierungen von Such-, Sortier-, Graph- und anderen Algorithmen.
 
 ### Visuelle Programmierung
 
@@ -92,6 +93,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[GearsBot](https://gears.aposteriori.com.sg/)** ([GitHub](https://github.com/QuirkyCort/gears)) - Simulationsumgebung für Ev3 Roboter. Programmierbar mit Blockly und Python.
 
 ### Suchen und Sortieren
+
+
 
 ## Sprachen und Automaten
 
