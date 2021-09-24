@@ -82,6 +82,10 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[TigerJython](http://www.tigerjython.ch)** - 
 - **[P5JS](https://p5js.com)** -
 
+#### Programmierspiele
+
+- **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so tu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
+
 ### Miniwelten
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 - **[Java Hamster Modell](http://www.java-hamster-modell.de)** - Miniwelt in der ein Hamster durch Territorien gesteuert wird. Geeignet für den Einstieg in verschiedene Programmierparadigmen und -sprachen.
