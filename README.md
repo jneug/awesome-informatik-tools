@@ -120,9 +120,12 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ## Datenbanken
 
 - **[DB Browser for SQLite](https://sqlitebrowser.org)** - *DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.*
+- **[SQLiteStudio](https://sqlitestudio.pl)** - *Create, edit, browse SQLite databases.*
 - **[InstaHub](https://instahub.org)** - InstaHub ist ein soziales Netzwerk, welches im Unterricht eingesetzt wird, um die Themen Datenbanken, Umgang mit sozialen Netzen und Datenschutz zu lehren.
 	- **[Inoffizieller Reader](https://rnitzsche.github.io/instahub-doc-de/)**
-- **[SQLiteStudio](https://sqlitestudio.pl)** - *Create, edit, browse SQLite databases.*
+- **[SQL Island](https://sql-island.informatik.uni-kl.de)** - Ein Spiel, dass durch die Eingabe von SQL-Abfragen gespielt wird.
+	- [Musterlösungen](https://ngb.schule/wiki/SQL-Island)
+- **[SQL Murder Mystery](https://mystery.knightlab.com)** - Ein Kriminalfall, den man durch Eingabe von SQL Abfragen lösen kann. (Auf Englisch)
 
 ## Informatik, Mensch und Gesellschaft
 
