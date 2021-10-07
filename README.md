@@ -67,7 +67,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
 - **[VisuAlgo](https://visualgo.net)** - Interaktive Visualisierungen von Such-, Sortier-, Graph- und anderen Algorithmen.
 
-### Visuelle Programmierung
+### Visuelle / Block Programmierung
 
 - **[Scratch 3](http://scratch.mit.edu)** - Eine am MIT entwickelte visuelle Programmierumgebung, in der Programme durch das anordnen von _Blöcken_ erstellt werden. Version 3 ist am 3. Januar 2018 erschienen. 
 - **[Scratch 2](https://uploads.scratch.mit.edu/scratch2download/)** - Die Vorgängerversion von Scratch 3 ist weiterhin als Offlineeditor verfügbar. Erweiterbar durch eine Vielzahl an Plugins, die z.B. auch die Interaktion mit physischen Objekten erlauben.
@@ -101,6 +101,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so tu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
 
 ### Miniwelten
+
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 - **[Java Hamster Modell](http://www.java-hamster-modell.de)** - Miniwelt in der ein Hamster durch Territorien gesteuert wird. Geeignet für den Einstieg in verschiedene Programmierparadigmen und -sprachen.
 - **[GearsBot](https://gears.aposteriori.com.sg/)** ([GitHub](https://github.com/QuirkyCort/gears)) - Simulationsumgebung für Ev3 Roboter. Programmierbar mit Blockly und Python.
@@ -132,6 +133,12 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Arduino](http://www.arduino.cc)** - Ein robuster Mikrokontroller. 
 - **[Raspberry Pi](http://www.raspberrypi.org)** - Voll funktionsfähiger Einplatinen-Computer für ca. 35€.
 - **[OpenRoberta Labs](https://www.roberta-home.de/lab/)** - Verschiedene Programmierumgebungen, unter anderem für die verschiedenen Plattformen oben.
+- **[TinkerCAD](https://www.tinkercad.com/)**
+
+### CAD und 3D-Druck
+
+- **[BlocksCAD](https://www.blockscad3d.com)** 
+- **[TinkerCAD](https://www.tinkercad.com/)**
 
 ### Rechnernetze
 
