@@ -86,6 +86,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 #### Python
 
 - **[TigerJython](http://www.tigerjython.ch)** - 
+- **[Thonny](https://thonny.org)** - 
+- **[Mu Editor](https://codewith.mu)** - 
 
 #### Javascript
 
@@ -99,6 +101,10 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 #### Programmierspiele
 
 - **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so tu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
+
+### Online-Übungen
+
+- **[CodingBat](https://codingbat.com/java)** - Kleine Programmierübungen für Java und Python.
 
 ### Miniwelten
 
