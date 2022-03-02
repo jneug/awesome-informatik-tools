@@ -64,6 +64,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Algorithmen
 
+- **[PAP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)** - Editor für Programmablaufpläne (PAP).
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
 - **[VisuAlgo](https://visualgo.net)** - Interaktive Visualisierungen von Such-, Sortier-, Graph- und anderen Algorithmen.
 
@@ -83,15 +84,17 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Java Editor](http://javaeditor.org/)** - Der Java Editor ist eine didaktische Entwicklungsumgebung für Java Programme. Sie bietet die gängigen Funktionen sowie einen visuellen Editor für Swing GUIs.
 - **[Processing](https://processing.org)** - *Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.*
 
+##### Bibliotheken  
+
 #### Python
 
-- **[TigerJython](http://www.tigerjython.ch)** - 
-- **[Thonny](https://thonny.org)** - 
-- **[Mu Editor](https://codewith.mu)** - 
+- **[TigerJython](http://www.tigerjython.ch)** - Didaktische Python-Programmierumgebung, die auch Turtlegrafiken (_gturtle_) und Miniwelten (_JGameGrid_) unterstützt.
+- **[Thonny](https://thonny.org)** - Einfache, aber vollwertige Python-Programmierumgebung mit Unterstützung für [pygame](https://www.pygame.org) und [MicroPython](https://micropython.org).
+- **[Mu Editor](https://codewith.mu)** - Einfache Python-Programmierumgebung mit verschiedenen Modi, z.B. für _pygame_ oder Mikrocontroller.
 
 #### Javascript
 
-- **[P5JS](https://p5js.com)** - 
+- **[P5JS](https://p5js.com)** - Javascript Variabte von Processing, die vollständig im Browser läuft  
 
 #### Andere
 
@@ -174,8 +177,20 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Allgemeine Unterrichtswerkzeuge
 
+### IDEs
+
+Die folgenden Programmierungebungen sind professionelle IDEs. Sie bieten unfassende Funktionen, die für Anfänger aber verwirrend sein können. Durch Erweiterungen lassen sie sich auch auf spezielle Bedürfnisse anpassen.
+
+- **[Eclipse](https://www.eclipse.org)**
+- **[IntelliJ Community Edition](https://www.jetbrains.com/idea/)**
+- **[VSCodium](https://vscodium.com)** - Codium ist ein Fork von VSCode, bei dem alle Tracking-Funktionen abgestellt sind.
+- **[NetBeans](https://netbeans.org)**
+
+#### Erweiterungen 
+
 ### Diagramme
 
+- **[Excalidraw](https://excalidraw.com)** - Erzeugt "Handgemalte" Diagramme.
 - **[Mermaid](https://mermaid.live)** - Online-Editor, um Diagrammeaus einer einfachen Textsprache zu generieren.
 
 ### Unterrichtsevaluation
