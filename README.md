@@ -66,6 +66,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[PAP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)** - Editor für Programmablaufpläne (PAP).
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
+- **[Struktog](https://dditools.inf.tu-dresden.de/struktog/)** - Ein webbasiertert Struktogrammeditor mit Überführung des Struktogramms in Code (Python, PHP, Java), PNG-Export, Laden und speichern von Struktogrammen. Freie Software: https://gitlab.com/ddi-tu-dresden/cs-school-tools/struktog/
 - **[VisuAlgo](https://visualgo.net)** - Interaktive Visualisierungen von Such-, Sortier-, Graph- und anderen Algorithmen.
 
 ### Visuelle / Block Programmierung
@@ -200,9 +201,10 @@ Die folgenden Programmierungebungen sind professionelle IDEs. Sie bieten unfasse
 ## Unterrichtsmaterial
 
 - **[SwissEduc Informatik](https://swisseduc.ch/informatik/)** - Umfassende Materialien zum Informatikunterricht. Zum Teil Urheber der oben gelisteten Tools, aber es ist noch weit mehr lohnenswertes Zusatzmaterial vorhanden. 
-- **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
+- **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW und daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
 - **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
 - **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
+- **[Material der DDI TU Dresden](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/lehr-lern-material)** - Lehr- und Lernmaterial zu Informatik Workshops der DDI der TU Dresden.
 
 ## Digital Arbeiten
 - **[Etherpad-Lite](https://etherpad.org)** - Ein kollborativer Text-Editor, um gemeinsam an einem Dokument zu arbeiten. Der Editor erlaubt es mehreren Nutzern gleichzeitig Änderungen an einem Dokument vorzunehmen. Es werden einige einfache Formatierungen unterstützt, allerdings keine komplexeren Formatierungen. Es gibt eine vielzahl von offenen Instanzen, die frei genuzt werden können. Beachtenswert ist vor allem das [Edupad](https://edupad.ch).
