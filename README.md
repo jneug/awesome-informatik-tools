@@ -115,6 +115,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 - **[Java Hamster Modell](http://www.java-hamster-modell.de)** - Miniwelt in der ein Hamster durch Territorien gesteuert wird. Geeignet für den Einstieg in verschiedene Programmierparadigmen und -sprachen.
 - **[GearsBot](https://gears.aposteriori.com.sg/)** ([GitHub](https://github.com/QuirkyCort/gears)) - Simulationsumgebung für Ev3 Roboter. Programmierbar mit Blockly und Python.
+- **[Miniworldmaker](https://www.miniworldmaker.de/)** - Miniworldmaker ist eine in Python und Pygame geschriebene Spiel-Engine, mit der SchülerInnen 2D-Miniwelten und Spiele erstellen können.
 
 ### Suchen und Sortieren
 
@@ -134,7 +135,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[MOPS](http://www.viktorianer.de/info/mops.html)** - Simulator eines Modellrechners mit Pseudoassembler.
 - **[Know How Computer](https://kroegerama.com/windows/know-how-computer)** - Ein Programm, um Assembler zu lernen. Angelehnt an den berühmten Know How Computer des [WDR-ComputerClub](http://www.wolfgang-back.com/knowhow_home.php).
-	- **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar. ([Reduzierte Version](https://khc.lehrerlezius.de), ohne Musterlösungen.)
+- **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar. ([Reduzierte Version](https://khc.lehrerlezius.de), ohne Musterlösungen.)
 
 ### Physical Computing
 
@@ -153,6 +154,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Rechnernetze
 
 - **[Filius](http://www.lernsoftware-filius.de/)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
+- **[NAT-Webapp](https://dditools.inf.tu-dresden.de/tools/nat/)** - In diesem interaktiven Webelement wird der Ablauf der Netzwerkadressübersetzung (NAT), mittels einer NAT-Tabelle verfolgt.
 
 ## Datenbanken
 
