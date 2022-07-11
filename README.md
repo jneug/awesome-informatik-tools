@@ -204,8 +204,8 @@ Die folgenden Programmierungebungen sind professionelle IDEs. Sie bieten unfasse
 
 - **[SwissEduc Informatik](https://swisseduc.ch/informatik/)** - Umfassende Materialien zum Informatikunterricht. Zum Teil Urheber der oben gelisteten Tools, aber es ist noch weit mehr lohnenswertes Zusatzmaterial vorhanden. 
 - **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW und daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
-- **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
-- **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
+- **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein umfassendes elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
+- **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine für Materialien, dia auf den verschiedenen Bildungsservern der Länder liegen. 
 - **[Material der DDI TU Dresden](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/lehr-lern-material)** - Lehr- und Lernmaterial zu Informatik Workshops der DDI der TU Dresden.
 
 ## Digital Arbeiten
