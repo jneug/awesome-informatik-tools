@@ -64,7 +64,9 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Algorithmen
 
+- **[PAP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)** - Editor für Programmablaufpläne (PAP).
 - **[Structorizer](http://structorizer.fisch.lu/)** - Einfacher Editor für Struktogramme.
+- **[Struktog](https://dditools.inf.tu-dresden.de/struktog/)** - Ein webbasiertert Struktogrammeditor mit Überführung des Struktogramms in Code (Python, PHP, Java), PNG-Export, Laden und speichern von Struktogrammen. Freie Software: https://gitlab.com/ddi-tu-dresden/cs-school-tools/struktog/
 - **[VisuAlgo](https://visualgo.net)** - Interaktive Visualisierungen von Such-, Sortier-, Graph- und anderen Algorithmen.
 
 ### Visuelle / Block Programmierung
@@ -83,13 +85,17 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[Java Editor](http://javaeditor.org/)** - Der Java Editor ist eine didaktische Entwicklungsumgebung für Java Programme. Sie bietet die gängigen Funktionen sowie einen visuellen Editor für Swing GUIs.
 - **[Processing](https://processing.org)** - *Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.*
 
+##### Bibliotheken  
+
 #### Python
 
-- **[TigerJython](http://www.tigerjython.ch)** - 
+- **[TigerJython](http://www.tigerjython.ch)** - Didaktische Python-Programmierumgebung, die auch Turtlegrafiken (_gturtle_) und Miniwelten (_JGameGrid_) unterstützt.
+- **[Thonny](https://thonny.org)** - Einfache, aber vollwertige Python-Programmierumgebung mit Unterstützung für [pygame](https://www.pygame.org) und [MicroPython](https://micropython.org).
+- **[Mu Editor](https://codewith.mu)** - Einfache Python-Programmierumgebung mit verschiedenen Modi, z.B. für _pygame_ oder Mikrocontroller.
 
 #### Javascript
 
-- **[P5JS](https://p5js.com)** - 
+- **[P5JS](https://p5js.com)** - Javascript Variabte von Processing, die vollständig im Browser läuft  
 
 #### Andere
 
@@ -100,11 +106,16 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so tu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
 
+### Online-Übungen
+
+- **[CodingBat](https://codingbat.com/java)** - Kleine Programmierübungen für Java und Python.
+
 ### Miniwelten
 
 - **[Greenfoot](http://www.greenfoot.com)** - Eine auf _BlueJ_ basierende [Miniwelt](http://informatik-box.de/wiki/Miniwelt) die sowohl textuelle, als auch [frame-basierte Entwicklung](http://informatik-box.de/wiki/Frame-Basiertes_Programmieren) erlaubt. 
 - **[Java Hamster Modell](http://www.java-hamster-modell.de)** - Miniwelt in der ein Hamster durch Territorien gesteuert wird. Geeignet für den Einstieg in verschiedene Programmierparadigmen und -sprachen.
 - **[GearsBot](https://gears.aposteriori.com.sg/)** ([GitHub](https://github.com/QuirkyCort/gears)) - Simulationsumgebung für Ev3 Roboter. Programmierbar mit Blockly und Python.
+- **[Miniworldmaker](https://www.miniworldmaker.de/)** - Miniworldmaker ist eine in Python und Pygame geschriebene Spiel-Engine, mit der SchülerInnen 2D-Miniwelten und Spiele erstellen können.
 
 ### Suchen und Sortieren
 
@@ -124,7 +135,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[MOPS](http://www.viktorianer.de/info/mops.html)** - Simulator eines Modellrechners mit Pseudoassembler.
 - **[Know How Computer](https://kroegerama.com/windows/know-how-computer)** - Ein Programm, um Assembler zu lernen. Angelehnt an den berühmten Know How Computer des [WDR-ComputerClub](http://www.wolfgang-back.com/knowhow_home.php).
-	- **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar. ([Reduzierte Version](https://khc.lehrerlezius.de), ohne Musterlösungen.)
+- **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar. ([Reduzierte Version](https://khc.lehrerlezius.de), ohne Musterlösungen.)
 
 ### Physical Computing
 
@@ -143,6 +154,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 ### Rechnernetze
 
 - **[Filius](http://www.lernsoftware-filius.de/)** - Simulation von Rechnernetzen inklusive Analyse von Nachrichtenverkehr. Netze können aus Rehnern, Switches und Routern aufgebaut werden, mit Software (z.B. Chatprogramm) bespielt und die Kommunikation simuliert werden.
+- **[NAT-Webapp](https://dditools.inf.tu-dresden.de/tools/nat/)** - In diesem interaktiven Webelement wird der Ablauf der Netzwerkadressübersetzung (NAT), mittels einer NAT-Tabelle verfolgt.
 
 ## Datenbanken
 
@@ -168,8 +180,20 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Allgemeine Unterrichtswerkzeuge
 
+### IDEs
+
+Die folgenden Programmierungebungen sind professionelle IDEs. Sie bieten unfassende Funktionen, die für Anfänger aber verwirrend sein können. Durch Erweiterungen lassen sie sich auch auf spezielle Bedürfnisse anpassen.
+
+- **[Eclipse](https://www.eclipse.org)**
+- **[IntelliJ Community Edition](https://www.jetbrains.com/idea/)**
+- **[VSCodium](https://vscodium.com)** - Codium ist ein Fork von VSCode, bei dem alle Tracking-Funktionen abgestellt sind.
+- **[NetBeans](https://netbeans.org)**
+
+#### Erweiterungen 
+
 ### Diagramme
 
+- **[Excalidraw](https://excalidraw.com)** - Erzeugt "Handgemalte" Diagramme.
 - **[Mermaid](https://mermaid.live)** - Online-Editor, um Diagrammeaus einer einfachen Textsprache zu generieren.
 
 ### Unterrichtsevaluation
@@ -181,6 +205,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[SwissEduc Informatik](https://swisseduc.ch/informatik/)** - Umfassende Materialien zum Informatikunterricht. Zum Teil Urheber der oben gelisteten Tools, aber es ist noch weit mehr lohnenswertes Zusatzmaterial vorhanden. 
 - **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
 - **[Materialsammlung der Paderborn](https://unterrichtsmaterial-ddi.cs.upb.de)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
+- **[Material der DDI TU Dresden](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/lehr-lern-material)** - Lehr- und Lernmaterial zu Informatik Workshops der DDI der TU Dresden.
 - **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
 - **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
 - **[Unterrichtsmaterial Hopp Foundation](https://www.hopp-foundation.de/unterrichtsmaterial)** - Umfassende Materialien zu verschiedenen Themengebieten. Teilweise unterstützt durch kostenfrei bestellbare Materialien wie Brettspiele.
