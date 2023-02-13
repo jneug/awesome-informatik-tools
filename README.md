@@ -180,8 +180,10 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 - **[SwissEduc Informatik](https://swisseduc.ch/informatik/)** - Umfassende Materialien zum Informatikunterricht. Zum Teil Urheber der oben gelisteten Tools, aber es ist noch weit mehr lohnenswertes Zusatzmaterial vorhanden. 
 - **[Materialsammlung der DDI Uni Wuppertal](http://ddi.uni-wuppertal.de/material/materialsammlung)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
+- **[Materialsammlung der Paderborn](https://unterrichtsmaterial-ddi.cs.upb.de)** - Umfangreiche Materialsammlung zu allen Themen der Informatik im Kernlehrplan NRW ind daruber hinaus. Zusammengestellt von Mitarbeitern der Didaktik der Informatik, Lehrerinnen und Lehrern sowie Studienreferendaren und Referendarinnen des ZfsL Hamm.
 - **[Inf-Schule.de](http://www.inf-schule.de)** - inf-schule ist ein elektronisches Schulbuch, dass sich an den Inhalten der Lehrpläne in Rheinland-Pfalz orientiert. 
 - **[informatik.schule.de](https://informatik.schule.de/)** - Suchmaschine fur Materialien, dia auf den versxhiedenen Bildungsseevern der Länder liegen. 
+- **[Unterrichtsmaterial Hopp Foundation](https://www.hopp-foundation.de/unterrichtsmaterial)** - Umfassende Materialien zu verschiedenen Themengebieten. Teilweise unterstützt durch kostenfrei bestellbare Materialien wie Brettspiele.
 
 ## Digital Arbeiten
 - **[Etherpad-Lite](https://etherpad.org)** - Ein kollborativer Text-Editor, um gemeinsam an einem Dokument zu arbeiten. Der Editor erlaubt es mehreren Nutzern gleichzeitig Änderungen an einem Dokument vorzunehmen. Es werden einige einfache Formatierungen unterstützt, allerdings keine komplexeren Formatierungen. Es gibt eine vielzahl von offenen Instanzen, die frei genuzt werden können. Beachtenswert ist vor allem das [Edupad](https://edupad.ch).
