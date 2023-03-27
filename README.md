@@ -104,7 +104,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 #### Programmierspiele
 
-- **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so tu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
+- **[Elevator Saga](http://elevatorsaga.com)** - Mit Javascript gilt es einen (oder auch mehrere) Aufzüge so zu automatisieren, dass möglichst viele Menschen in möglichst kurzer Zeit transportiert werden können.
 
 ### Online-Übungen
 
