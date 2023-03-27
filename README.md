@@ -136,6 +136,12 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 - **[MOPS](http://www.viktorianer.de/info/mops.html)** - Simulator eines Modellrechners mit Pseudoassembler.
 - **[Know How Computer](https://kroegerama.com/windows/know-how-computer)** - Ein Programm, um Assembler zu lernen. Angelehnt an den berühmten Know How Computer des [WDR-ComputerClub](http://www.wolfgang-back.com/knowhow_home.php).
 - **[Papiercomputer](https://marian-aldenhoevel.de/papiercomputer/)** - Eine Web-Version des Know How Computers. Etwas unübersichtlich, aber auch unter macOS nutzbar. ([Reduzierte Version](https://khc.lehrerlezius.de), ohne Musterlösungen.)
+- **[KUR](https://ls11-www.cs.tu-dortmund.de/staff/weinert/kur)** - Von-Neumann-Simulator, der sich am EVA-Prinzip orientiert. Inklusive Unterrichtsmaterial zum Einsatz.
+
+## Schaltnetze
+- **[LogicSim](https://github.com/codepiet/LogicSim3)** - Editor und Simulator für logische Schaltungen.
+- **[Digital](https://github.com/hneemann/Digital)** - Editor und Simulator für logische Schaltungen.
+- **[NandGame](https://www.nandgame.com/)** - Spielerische Einführung in Schaltnetze durch Aufbau einer Rechnerarchitektur basierend auf NAND-Gattern (auf Englisch).
 
 ### Physical Computing
 
