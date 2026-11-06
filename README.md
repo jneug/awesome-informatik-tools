@@ -50,6 +50,8 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ## Information und Daten
 
+- **[Data Format Workbench](https://apps.microsoft.com/detail/9nxzwn74wqn5?hl=en-US)** - Kostenpflichtige Windows-App zum lokalen Untersuchen, Filtern und Konvertieren strukturierter Daten. Tabellen- und Baumansicht sowie JSONPath ermöglichen es, flache CSV-Datensätze mit verschachtelten JSON-Strukturen zu vergleichen. US-Preis: 5,99 USD; Testversion verfügbar.
+
 ### Objektorientierte Modellierung
 - **[UMLet](https://www.umlet.com)** - Kleines Programm zum Satz von UML-Diagrammen. Das Tool bietet sich an, um schnell kleine UMl-Diagramme zu erstellen. Vor allem, da sich individuelle Vorlagen zu vielgenutzten Klassen erstellen lassen. Eine [Palette mit Vorlagen für die Klassen im Zentralabitur](https://gist.github.com/jneug/6272422cfb1072d1f2e93a66ea101f3e) gibt es hier als Gist.
 - **[Object-Draw](http://pabst-software.de/doku.php/programme:object-draw:start)** - Ein _gläsernes_ Zeichenprogamm für Vektorgrafiken, das Grafikobjekte gleichzeitig als Objektdiagramme visualisiert.
