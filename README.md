@@ -57,6 +57,7 @@ Die Kategorisierung der Werkzeuge orientiert sich lose an den [Standards für de
 
 ### Text- und Grafikgestaltung
 
+- **[ASCII Images](https://ascii-images.com/image-to-ascii)** - Kostenloses Browser-Werkzeug, das Bilder in ASCII-Zeichen umwandelt; als Beispiel für die Darstellung von Bilddaten durch Text, ohne Anmeldung.
 - **[Libre Office](http://www.libreoffice.org)** - Ausgereiftes Open Source Office-Paket mit Textverarbeitung, Diagrammeditor, Tabellenkalkulation und Datenbanksoftware.
 - **[Inkscape](https://inkscape.org/de/)** - Open Source Gestaltungssoftware für Vektorgrafiken.
 - **[GIMP](https://www.gimp.org)** - Open Source Grafikprogramm.
